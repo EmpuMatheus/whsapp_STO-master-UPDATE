@@ -1,0 +1,4 @@
+ Server (HTTPS) running on https://0.0.0.0:3443
+Server (HTTP) running on http://0.0.0.0:3000
+Timezone: Mon Jun 22 2026 15:25:43 GMT+0700 (Western Indonesia Time)
+DB TIME (WIB): 2026-06-22 15:25:43

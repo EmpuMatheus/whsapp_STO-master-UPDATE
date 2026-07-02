@@ -1,0 +1,31 @@
+whs_code;whs_name
+DSTOCK;Gudang DeadStock
+FGOD;Finish Goods
+GKOL;Gudang Kolam Log
+GKOP;Gudang Komponen Produksi
+GKOR;Gudang Komponen Rework
+GKPP;Gudang Komponen Produksi Packing
+GLOG;Gudang Log
+GPAK;Gudang Packing
+GPSM;Gudang Proses Sawmill
+GRPF;Gudang Revisi Produksi Finishing
+GRUV;Gudang Revisi Ulang Veneer
+GRVK;Gudang Revisi Veneer Kering
+HO;Head Offiice
+PFIN;Produksi Finishing
+PPAN;Produksi Panel
+PVAF;Produksi VAF
+SUPP;Supporting Material & Sparepart
+TPIC;Gudang Teknik
+TRANSIT;Gudang Transit
+VAF1;Gudang VAF 1
+VAF2;Gudang VAF 2
+VFIN;Gudang VFIN
+WADA;Pengadaan
+WAST;Waste Control
+WIPA;Gudang WIP Panel
+WIVE;Gudang WIP Veneer
+WPLC;Gudang WIP Log Core
+WVEB;Gudang Veneer Basah
+WVEK;Gudang Veneer Kering
+WVMK;Gudang Veneer MK

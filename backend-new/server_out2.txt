@@ -1,0 +1,5 @@
+ Server (HTTPS) running on https://0.0.0.0:3443
+Server (HTTP) running on http://0.0.0.0:3000
+Timezone: Mon Jun 22 2026 11:34:35 GMT+0700 (Western Indonesia Time)
+DB TIME (WIB): 2026-06-22 11:34:35
+GENERATE OK: 4 tag for DSTOCK-FGB00027, IDs 20..23
